@@ -1,0 +1,1 @@
+# sia-endpoints-manager
